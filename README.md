@@ -1,6 +1,9 @@
 # test-javascript
 javascriptの練習をしながらWebサイトを作成
-HTML/CSS + JavaScript(TypeScript), JQuery
+
+クライアントサイド: HTML/CSS + JavaScript(TypeScript), JQuery
+
+サーバサイド: Node.js, Express
 ## どのようなWebサイトを作るか
  * Fate/Grand Orderの計算に関するもの
  * UIを見栄えのいいものにする
